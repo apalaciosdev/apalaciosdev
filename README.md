@@ -4,5 +4,5 @@
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://i.imgur.com/B9KXKGS.jpg" height="290px" align="right" /></a>
 <p align="center">
-  ![apalaciosdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=apalaciosdev&theme=react&hide_border=true)
+  ![apalaciosdev's Stats](https://github-readme-stats.vercel.app/api?username=apalaciosdev&theme=react&show_icons=true&hide_border=true&count_private=true)
 </p>
