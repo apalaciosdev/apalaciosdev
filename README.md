@@ -8,7 +8,7 @@
 <!--    <a href="https://github.com/apalaciosdev">    
     <img src="https://github-readme-stats.vercel.app/api?username=apalaciosdev&theme=react&show_icons=true&hide_border=true&count_private=true" alt="apalaciosdev's Stats">
    </a> -->
-   <a href="https://github.com/apalaciosdev">
+<!--    <a href="https://github.com/apalaciosdev">
     <img src="https://streak-stats.demolab.com?user=apalaciosdev&theme=react&hide_border=true&hide_longest_streak=true" alt="GitHub Streak" />
-   </a>
+   </a> -->
 </p>
