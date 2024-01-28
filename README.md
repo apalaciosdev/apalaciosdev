@@ -1,4 +1,4 @@
-<h1>Aaron̨̙̹̦̱͗̈̋̐̈́͝ Palacios͍͇̄̑͂̾̏̐</h1>
+<h1>Aaron̨̙̹̦̱͗̈̋̐̈́͝ Palacios</h1>
 <p align="right">
  <code align="right">Full-stack JS with a passion for Billard Pool</code>
  <code align="right">Check it ⬇⬇⬇</code>
