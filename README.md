@@ -1,7 +1,6 @@
 <h1>Aaron̨̙̹̦̱͗̈̋̐̈́͝ Palacios</h1>
 <p align="right">
  <code align="right">Full-stack JS with a passion for Billard Pool</code>
- <code align="right">Check it ⬇⬇⬇</code>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="./billard.png" height="100px" align="right" style="border-radius: 50%;"/></a>
 <p align="rigth">
