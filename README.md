@@ -1,6 +1,6 @@
 <h1>Aaron̨̙̹̦̱͗̈̋̐̈́͝ Palacios</h1>
 <p align="right">
- <code align="right">Full-stack JS with a passion for Open Source</code>
+ <code align="right">A full-stack JS</code>
 </p>
 <!-- <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0"><img src="./billard.png" height="50px" align="right" style="border-radius: 50%;"/></a> -->
 <!-- <p align="rigth"> -->
